@@ -4,11 +4,6 @@
 body{margin:0px auto;
 }
 
-
-
-
-
-
 /* declare grid */
 main{
 	display: grid;
@@ -75,15 +70,6 @@ ul li{list-style:none;}
 	 }
 	 
 }
-
-
-
-
-
-
-
-
-
 
 
 /* Sticky footer styles
